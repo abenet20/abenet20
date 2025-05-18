@@ -46,6 +46,9 @@
   <a href="mailto:abeneterbelo@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
+  <a href="t.me/@abeneterbelo" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-D14836?style=flat&logo=telegram&logoColor=white"/>
+  </a>
 </p>
 
 ---
