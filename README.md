@@ -40,7 +40,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/abenet-erbelo-091504322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:abeneterbelo@gmail.com" target="_blank">
