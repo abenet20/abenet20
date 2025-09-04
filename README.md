@@ -9,7 +9,7 @@
 
 - 🌱 Currently learning **Node.js** and enhancing my skills in **database management**
 - 💼 Open to **freelance** opportunities and **collaborative backend projects**
-- 💬 Ask me about **PHP**, **Laravel**, and **MySQL**
+- 💬 Ask me about **PHP**, **Node.js**, and **MySQL**
 - 📫 Reach me at: **abeneterbelo@gmail.com**
 - ⚡️ Fun fact: I enjoy turning frontend requests into fast, secure, and scalable backend systems!
 
