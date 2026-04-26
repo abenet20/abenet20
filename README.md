@@ -30,10 +30,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
 
 ---
 
@@ -53,5 +50,3 @@
 
 ---
 
-<!-- Snake contribution animation -->
-![GitHub Snake](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
