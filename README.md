@@ -9,7 +9,7 @@
 
 - 🌱 Currently learning **typescript** and developing backend projects using **Node.js**
 - 💼 Open to **freelance** opportunities and **collaborative backend projects**
-- 💬 Ask me about **PHP**, **Node.js**, **sequelize**, and **MySQL**
+- 💬 Ask me about **Node.js**, **Express**, **MongoDB** and **MySQL**
 - 📫 Reach me at: **abeneterbelo@gmail.com**
 - ⚡️ Fun fact: I enjoy turning frontend requests into fast, secure, and scalable backend systems!
 
